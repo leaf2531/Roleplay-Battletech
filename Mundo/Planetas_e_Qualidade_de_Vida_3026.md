@@ -6,7 +6,7 @@
 >
 > **Relação com outros documentos:**
 > - Complementa o **Economia_3026.md**. Os multiplicadores por planeta deste documento substituem a tabela 3.1 de lá.
-> - O sistema político interno de cada planeta terá documento próprio. Aqui o governo aparece só como um rótulo curto.
+> - O sistema político interno de cada planeta está em **Politica_Leis_e_Nobreza_3026.md** (seção 9). Aqui o governo aparece só como um rótulo curto.
 >
 > **Sobre os dados canônicos:** o Sarna raramente data os dados físicos e a maioria das populações é de anos posteriores. Quando não há número de 3025, a população de 3026 é estimativa nossa, sempre marcada.
 

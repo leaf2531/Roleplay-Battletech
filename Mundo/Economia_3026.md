@@ -64,6 +64,9 @@ O que essa escala significa: um MechWarrior das AFFS levaria uns **240 anos de s
 ## 3. Custo de vida [INVENÇÃO]
 
 ### 3.1 Multiplicador por tipo de mundo
+
+> **Atualização:** os multiplicadores planeta a planeta estão agora em **Planetas_e_Qualidade_de_Vida_3026.md** e prevalecem sobre esta tabela. Ela continua valendo como referência rápida para mundos ainda sem ficha.
+
 | Tipo de mundo | Multiplicador | Observação |
 |---|---|---|
 | Periferia | 0,6 | Pound mal aceito; produtos importados custam o triplo |

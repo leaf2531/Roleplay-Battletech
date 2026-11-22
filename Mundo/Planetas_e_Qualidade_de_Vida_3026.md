@@ -7,6 +7,7 @@
 > **Relação com outros documentos:**
 > - Complementa o **Economia_3026.md**. Os multiplicadores por planeta deste documento substituem a tabela 3.1 de lá.
 > - O sistema político interno de cada planeta está em **Politica_Leis_e_Nobreza_3026.md** (seção 9). Aqui o governo aparece só como um rótulo curto.
+> - A vizinhança de Schedar está em **Mapa_Regiao_Schedar.md**, as viagens em **Viagem_e_Logistica_Espacial_3026.md** e o retrato da Esfera Interna em **Estado_do_Universo_Marco_3026.md**.
 >
 > **Sobre os dados canônicos:** o Sarna raramente data os dados físicos e a maioria das populações é de anos posteriores. Quando não há número de 3025, a população de 3026 é estimativa nossa, sempre marcada.
 
@@ -305,7 +306,7 @@ Cada ficha registra:
 
 | Dado | Valor |
 |---|---|
-| Estrela | G2III [CÂNONE]; recarga e estações [NÃO VERIFICADO] |
+| Estrela | G2III; recarga de 183 horas; ponto de salto a 9 dias do planeta [CÂNONE]; estações de recarga [NÃO VERIFICADO] |
 | Gravidade | 1,1 [CÂNONE] |
 | Atmosfera e clima | Pressão padrão, contaminada por poeira mineral; mundo frio e desértico, com pequenos lagos salgados e redes de cavernas; cerca de 27 °C no equador; 20% de água [CÂNONE] |
 | População | 55 milhões em 3130 [CÂNONE]; cerca de 40 milhões em 3026 [INVENÇÃO] |

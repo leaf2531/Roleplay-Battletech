@@ -279,7 +279,7 @@ Renda mensal, em Pounds:
 | DropShip acoplado a uma JumpShip | 50.000 a 150.000 C-bills, conforme o porte |
 | Passagem fora do manifesto | 2.000 a 10.000 C-bills (ver seção 4.5) |
 
-Os tempos de viagem e de recarga das JumpShips serão conferidos no cânone antes de entrarem aqui.
+Os tempos de viagem, a recarga das JumpShips, a espera por conexão e os custos extras estão em **Viagem_e_Logistica_Espacial_3026.md**.
 
 ---
 

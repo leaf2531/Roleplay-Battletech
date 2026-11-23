@@ -444,6 +444,7 @@ https://github.com/leaf2531/Roleplay-Battletech
 Consulte os documentos pertinentes antes de escrever:
 
 - **Fichas/Andre_Silverseal.md:** o protagonista, sua biologia, segredos e vulnerabilidades.
+- **Fichas/Ivan_Figueiredo.md:** o criador de André, diretor do Projeto Deimos.
 - **Mundo/Estado_do_Universo_Marco_3026.md:** quem governa, tratados, Casas, ComStar, mercenários, o calendário canônico de 3026 a 3030, os segredos do narrador e o registro das divergências.
 - **Mundo/Mapa_Regiao_Schedar.md:** a vizinhança de Schedar, as distâncias e as rotas.
 - **Mundo/Viagem_e_Logistica_Espacial_3026.md:** saltos, recargas, tempos de viagem, custos e comunicações.

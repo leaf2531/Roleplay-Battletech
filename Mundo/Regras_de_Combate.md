@@ -170,7 +170,9 @@ Fonte: ficha oficial de BattleMech para 5, 8 e de 22 a 30; tabelas do Sarna para
 - **Contra um BattleMech, a pé:** força de 900 kg é nada diante de 20 a 100 toneladas de aço. Um homem a pé só derrota um 'Mech com explosivo, emboscada, terreno ou entrando no cockpit. O narrador não concede proezas que o cânone não sustenta.
 
 ### 5.4 Armas pessoais
-As armas pessoais e de apoio da infantaria em 3026 ficam para o documento de tecnologia. Até lá, o narrador descreve tipos genéricos (pistola, fuzil, laser portátil, arma de apoio) sem dar números. O cânone tem armas de apoio pesadas, como o PPC de apoio, operado por uma equipe de cinco soldados e criado em 2470. [CÂNONE] Se ele está disponível em 3026 fica [NÃO VERIFICADO].
+**Toda arma de infantaria do roleplay é balística** [RETCON]: pistolas, fuzis, metralhadoras, escopetas, lança-granadas, foguetes e mísseis portáteis. Lasers, PPCs e armas de partículas portáteis não existem nas mãos de soldados; continuam existindo em 'Mechs, veículos, caças e naves. O cânone tem armas de energia de infantaria, como o PPC de apoio operado por uma equipe de cinco soldados e criado em 2470 [CÂNONE]; no roleplay, elas foram retiradas.
+
+O catálogo completo, com calibres, tipos de munição, níveis de proteção, loadouts das Casas e rações, está em `Armas_e_Equipamento_de_Infantaria.md`.
 
 ---
 
@@ -178,7 +180,7 @@ As armas pessoais e de apoio da infantaria em 3026 ficam para o documento de tec
 
 - **Veículos blindados.** Mais baratos e mais numerosos que os 'Mechs. Formam o grosso das guarnições e das milícias. Um tanque bem posicionado mata um 'Mech; um tanque com a lagarta quebrada vira alvo. [INVENÇÃO]
 - **Caças aeroespaciais.** Dominam o céu e o espaço próximo; acompanham as DropShips (a Union leva dois). [CÂNONE quanto à Union]
-- **Infantaria.** Toma e segura terreno, guarda instalações, faz o trabalho que um 'Mech não faz dentro de um prédio. Em 3026, a infantaria convencional não tem armadura de combate. [INVENÇÃO, a confirmar no documento de tecnologia]
+- **Infantaria.** Toma e segura terreno, guarda instalações, faz o trabalho que um 'Mech não faz dentro de um prédio. Em 3026, a infantaria convencional não tem armadura de combate motorizada; usa capacete, colete e placas [INVENÇÃO]. Armas e proteção em `Armas_e_Equipamento_de_Infantaria.md`; veículos e aeronaves em `Veiculos_de_Combate.md`; navios em `Forcas_Navais.md`; organização em `Estrutura_Militar_das_Grandes_Casas.md`.
 
 ---
 
@@ -270,6 +272,9 @@ O bloco não entra na narrativa e só aparece quando algum valor mudou.
 ### INVENÇÃO
 - Tradução do dano em cena, tempos de reparo, doutrina, método de resolução, registro técnico e tudo o que se refere ao corpo de André em combate.
 
+### RETCON
+- Toda arma de infantaria é balística; armas de energia portáteis não existem no roleplay (decisão do jogador, 23/11/2026).
+
 ### Pendências
 - Conferir no MUL os 'Mechs que entrarem em cena, um a um, antes de usar.
-- Armas pessoais e de apoio, no documento de tecnologia.
+- Armas pessoais e de apoio: resolvido em `Armas_e_Equipamento_de_Infantaria.md` (23/11/2026).

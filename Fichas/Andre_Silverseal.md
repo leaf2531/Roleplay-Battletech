@@ -32,7 +32,7 @@
 | Avó | **Jennifer Campbell** [CÂNONE] | Nunca soube que teve gêmeos. O Sarna não registra o destino dela **[a definir]** |
 | Tio | **Hanse Davion**, Primeiro Príncipe desde 3013, nascido em 2983 [CÂNONE] | Não sabe que teve uma irmã gêmea nem que André existe |
 | Tio | **Ian Davion**, Primeiro Príncipe 2999–3013, morto em 21/10/3013 [CÂNONE] | Nunca soube de nada |
-| Criador | **Ivan Figueiredo**, ex-Adepto da ComStar, nascido em 2953 | Vivo em Schedar. Não tem parentesco genético com André. |
+| Criador | **Ivan Figueiredo**, ex-Adepto da ComStar, nascido em 2953 | Vivo em Schedar. Não tem parentesco genético com André. Ficha própria: `Ivan_Figueiredo.md`. |
 
 **Direito ao trono.** André é filho de uma filha legítima de Andrew. A prova está no próprio sangue: o DNA mitocondrial dele é o de Jennifer Campbell, idêntico ao de Hanse, o que o distingue de qualquer linhagem bastarda de Andrew. Hanse continua sendo o segundo filho, porque a gêmea nasceu minutos depois dele. Somam-se a isso o sangue do fundador da Liga Estelar e o serviço militar de cinco anos que o cânone exige de todo herdeiro aparente.
 

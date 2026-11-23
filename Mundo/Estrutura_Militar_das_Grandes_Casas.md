@@ -61,7 +61,7 @@ Acima delas, e fora da conta, estão os **mercenários** sob contrato.
 - **Quantos marechais de campo:** pelo menos catorze, distribuídos entre as Marcas Capelana, Draconis e Crucis e um grupo de conselheiros do Príncipe sem comando direto. O cânone fala em três para cada uma das Marcas Capelana e Draconis, quatro para a Crucis e cinco conselheiros (o que somaria quinze; ver Registro).
 
 ### 2.2 Estrutura regional [CÂNONE e INVENÇÃO]
-- **Três Marcas** [CÂNONE]: **Crucis** (o centro, com New Avalon), **Capelana** (a fronteira com a Confederação, onde fica Schedar) e **Draconis** (a fronteira com o Combine). Cada Marca tem seu comando militar, sob um Marechal de Campo, e sua **Milícia da Marca**.
+- **Três Marcas** [CÂNONE]: **Crucis** (o centro, com New Avalon), **Capelana** (a fronteira com a Confederação) e **Draconis** (a fronteira com o Combine, onde fica Schedar, a um salto do território capelano de Tikonov). Cada Marca tem seu comando militar, sob um Marechal de Campo, e sua **Milícia da Marca**.
 - **Milícias das Marcas** [CÂNONE]: unidades espalhadas por muitos mundos. O imediato de uma delas costuma ser um Major General, que precisa de tato político, porque a unidade serve a vários governos planetários ao mesmo tempo.
 - **Equipe de Combate Regimental** [INVENÇÃO sobre um nome do cânone, NÃO VERIFICADO]: a Federação gosta de juntar num só comando um regimento de 'Mechs, blindados, infantaria, artilharia e aviação. No roleplay, uma Equipe de Combate Regimental tem um regimento de 'Mechs, dois de blindados, três de infantaria, um batalhão de artilharia e uma ala aeroespacial.
 
@@ -404,7 +404,7 @@ Equivalências aproximadas. "—" quer dizer que a patente não existe naquela f
 
 ## 9. André e as forças armadas [INVENÇÃO sobre a ficha]
 
-- **Onde ele está:** Schedar, na Marca Capelana da Federação. As portas mais próximas são a **milícia planetária**, a **Milícia da Marca Capelana**, as **AFFS** por meio de uma academia e o **mercado mercenário**.
+- **Onde ele está:** Schedar, na Marca Draconis da Federação. As portas mais próximas são a **milícia planetária**, a **Milícia da Marca Draconis**, as **AFFS** por meio de uma academia e o **mercado mercenário**.
 - **O problema do exame médico:** todas as Casas examinam os recrutas. Um exame de sangue, uma radiografia ou um teste de esforço de verdade denunciam a densidade óssea, o metabolismo e a força de André [ver Economia, seção 4.2]. A milícia de um mundo de fronteira examina menos do que uma academia; uma unidade mercenária, menos ainda.
 - **O que chamaria atenção numa unidade:** comer por quatro, carregar o peso de três homens, não sentir o que os outros sentem, e se recuperar depressa demais de um ferimento.
 - **Patentes ao alcance de um jovem de 18 anos:** soldado na milícia ou nas AFFS; cadete numa academia; MechWarrior, só com um 'Mech ou com uma academia.

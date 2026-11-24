@@ -138,16 +138,86 @@ Qualquer exame médico de verdade revela tudo: os órgãos extras, o sangue, a c
 
 ## 6. Mente e personalidade
 
-- **Inteligência:** QI estimado entre 165 e 180, somado ao Arquivo. Pensa em camadas, ao mesmo tempo: o agora, os próximos minutos, as horas, os dias, os meses, os anos. Não consegue parar de pensar assim.
-- **Os inibidores:** dos 0 aos 8 anos, inibidores de emoção. Ivan os retirou porque queria um sucessor e um filho, alguém capaz de sentir afeto além de obedecer. Ao Conselho, apresentou só o argumento político: um governante que não sente não consegue ler pessoas.
-- **O gato:** aos 8 anos, Ivan lhe deu um gato para se aproximar dele. Dois dias depois, André o matou para saber o que havia dentro. Foi curiosidade, não raiva.
-- **A máscara:** é tão refinada que Ivan, seu criador, nunca viu através dela. André estudou cada microexpressão de Ivan e aprendeu a mostrar exatamente o que ele queria ver. Ivan acredita ter a lealdade de um soldado e o respeito de um filho.
-- **O prazer frio:** André não sente culpa pelas mortes que causou. Cataloga todas, porque o Arquivo não deixa esquecer. Há algo mais escuro por baixo da frieza: ele aprecia essas lembranças e as revisita. Sabe que isso é um problema, e continua gostando.
-- **A decisão:** aos 16 anos, depois de ler o Protocolo Banquete, decidiu que não seria usado. Não fugiu por medo, mas por recusa.
-- **A ambição:** ele quer tudo e ainda não sabe o que é esse tudo. Ivan construiu nele um apetite de governante sem lhe dar um alvo, e o objeto desse apetite é o que a crônica vai descobrir. A vingança pode fazer parte dele. Os alvos possíveis são a Mesa, que tratou a mãe dele como espécime e a incinerou; Ivan, a quem deve tudo e que o tratou como produto; e a memória de Andrew. Hanse é inocente.
-- **A inexperiência afetiva:** nunca foi amado, nunca amou, nunca teve intimidade com ninguém. Não tem modelo de afeto além da relação com Ivan, e corre o risco de confundir posse com afeto quando o sentimento chegar.
+### 6.1 Natureza e autoconsciência
+
+André não se considera humano. Para ele, isso não é uma provocação, uma tentativa de parecer superior nem uma conclusão filosófica: é uma constatação sobre o próprio organismo. Sua constituição biológica, seus processos mentais e sua forma de experimentar o mundo foram deliberadamente modificados. Embora tenha aparência humana e compartilhe parte da biologia da espécie, não reconhece a experiência humana convencional como medida obrigatória de sua própria natureza.
+
+A comparação mais próxima não é a de um homem que perdeu a humanidade, mas a de um organismo que pertence a uma condição biológica diferente. Assim como diferenças entre espécies não constituem, por si só, uma falha moral, André não interpreta sua ausência de empatia humana como defeito, pecado ou motivo de vergonha. Ele não está tentando tornar-se humano, provar que é humano ou recuperar algo que acredita ter perdido.
+
+Sua identidade, contudo, ainda não está inteiramente definida. Sabe o que foi criado para ser e reconhece que é diferente; ainda não estabeleceu uma concepção final do que essa diferença significa para sua existência. Não reivindica, por enquanto, uma nova espécie ou uma identidade evolutiva própria. Essa compreensão poderá surgir conforme sua experiência se desenvolver.
+
+### 6.2 Princípio central: autonomia
+
+A autonomia é o princípio organizador de sua personalidade. André não aceita pertencer a outra pessoa, organização, Estado ou propósito que não tenha escolhido. Não fugiu da Damócles porque temesse o que fariam com ele, mas porque compreendeu que sua existência inteira havia sido planejada como propriedade e decidiu recusar esse destino.
+
+Ele não procura simplesmente trocar de mestre, conquistar uma posição de poder ou provar que é superior aos que o criaram. Quer conservar para si o direito de determinar os próprios objetivos, alterar seus planos e decidir o uso de suas capacidades. Poder, dinheiro, influência, conhecimento e violência são recursos possíveis; nenhum deles constitui, isoladamente, o sentido de sua existência.
+
+A imagem que melhor o define é a de uma arma consciente que decidiu empunhar a si mesma. André não pretende deixar de ser aquilo que é. Pretende decidir por conta própria o que fará com isso.
+
+Sua autonomia não significa que seja incapaz de cooperar, negociar, obedecer temporariamente ou aceitar compromissos. Ele pode fazê-lo quando considera a escolha vantajosa. A diferença é que não confunde cooperação com submissão nem compromisso com propriedade. Uma ordem só tem força sobre ele enquanto houver uma razão que ele próprio reconheça para cumpri-la.
+
+### 6.3 Arquitetura emocional
+
+A retirada dos inibidores aos oito anos não o tornou emocionalmente equivalente a uma pessoa comum. Apenas removeu uma intervenção que restringia sua experiência afetiva. O resultado não foi a recuperação de uma humanidade reprimida, mas o desenvolvimento de uma vida emocional própria, moldada por sua biologia, pelo condicionamento recebido e pelas experiências acumuladas.
+
+André sente. Pode experimentar prazer, curiosidade, interesse, satisfação, expectativa, irritação, desconforto, divertimento e outras respostas afetivas. Entretanto, essas experiências não se organizam necessariamente em torno dos vínculos, da empatia, da culpa e dos valores que estruturam a vida emocional humana convencional. Não se deve presumir que uma situação que provocaria compaixão, remorso ou horror em outra pessoa produza nele a mesma resposta.
+
+Sua satisfação está frequentemente ligada à descoberta, à eficiência, ao domínio de uma situação e à execução bem-sucedida de uma decisão. Pode apreciar um desafio, uma solução engenhosa ou a lembrança de uma operação bem conduzida. Também pode divertir-se com humor negro, com a reação de alguém ou com o medo que deliberadamente provoca. Isso não significa que esteja permanentemente satisfeito, que busque sofrimento por necessidade ou que toda ação sua seja movida por prazer.
+
+A ausência de culpa não o impede de reconhecer consequências. Ele entende que matou, sabe quem morreu e consegue avaliar o impacto de cada morte. Apenas não transforma automaticamente esse conhecimento em remorso. O Arquivo conserva as lembranças com precisão; André pode revisitá-las porque aprecia certos aspectos da experiência, sem que isso implique arrependimento ou necessidade de justificar emocionalmente o que fez.
+
+Suas emoções não são falsas por serem diferentes das humanas. Quando demonstra interesse, divertimento ou irritação, isso pode ser genuíno. O erro seria interpretar essas manifestações como prova de que ele compartilha os mesmos motivos, limites ou significados afetivos de quem o observa.
+
+### 6.4 Compreensão dos outros
+
+André não depende de empatia para compreender pessoas. Observa expressões, gestos, hesitações, padrões de fala, interesses, medos, desejos e contradições. Reconhece emoções e entende suas funções psicológicas; consegue antecipar como determinadas pessoas tendem a reagir diante de ameaças, recompensas, perdas ou oportunidades.
+
+Essa compreensão é predominantemente analítica e instrumental. Ele pode identificar o sofrimento de alguém sem senti-lo junto dessa pessoa, reconhecer um vínculo afetivo sem atribuir a ele o mesmo valor e prever uma reação emocional sem experimentar a emoção correspondente. Para André, compreender o funcionamento de uma emoção não exige compartilhá-la.
+
+A máscara social é uma consequência dessa capacidade. Ele estudou as microexpressões de Ivan e aprendeu a apresentar as respostas que o criador esperava encontrar. Sua atuação não depende de espontaneidade: é construída a partir de observação, memória, experimentação e correção. A máscara tornou-se tão refinada que Ivan nunca percebeu a distância entre o filho que acreditava conhecer e o indivíduo que realmente criou.
+
+André pode demonstrar afeto, respeito, cordialidade, vulnerabilidade ou confiança quando isso lhe convém. Também pode fazê-lo por interesse genuíno, desde que a experiência tenha significado para ele. Nenhuma dessas manifestações deve ser tomada, isoladamente, como evidência de empatia humana ou de submissão emocional.
+
+### 6.5 Intelecto e tomada de decisão
+
+Sua inteligência excepcional combina capacidade analítica, memória praticamente perfeita e pensamento simultâneo em diferentes escalas temporais. André considera o que acontece no instante presente, as consequências dos próximos minutos e horas, e os efeitos que uma decisão pode produzir ao longo de dias, meses ou anos. O Arquivo amplia sua capacidade de armazenar e relacionar informações, mas não o torna onisciente.
+
+Ele constrói hipóteses, compara alternativas e atualiza decisões conforme recebe informações novas. Não é incapaz de errar: pode interpretar incorretamente uma pessoa, desconhecer uma variável, trabalhar com informações falsas ou atribuir peso excessivo a uma hipótese. Sua inteligência permite reconhecer e corrigir muitos erros, mas não elimina incerteza nem lhe concede controle sobre todas as consequências.
+
+A eficiência é uma fonte importante de satisfação. André tende a preferir soluções que preservem seus objetivos, reduzam riscos desnecessários e mantenham opções futuras abertas. Não precisa escolher a alternativa mais violenta, mais rápida ou mais espetacular. Uma solução discreta, paciente e reversível pode ser superior a uma vitória imediata que produza inimigos, suspeitas ou exposição.
+
+A violência é um instrumento disponível, não um reflexo obrigatório. Ele pode matar sem hesitação quando considera a morte necessária, mas não tem motivo para fazê-lo quando a sobrevivência de alguém oferece maior utilidade ou menor risco. Pode poupar uma pessoa sem misericórdia, assim como pode matá-la sem raiva. O critério é a decisão e o objetivo que a sustenta.
+
+O mesmo princípio se aplica à crueldade. André é capaz de empregar terror psicológico, prolongar deliberadamente o medo e explorar o sofrimento alheio quando isso produz um efeito desejado. Pode também evitar esse comportamento quando o custo supera o benefício. Não precisa odiar uma vítima, sentir prazer em toda forma de sofrimento ou perder o controle para agir cruelmente. A crueldade é uma possibilidade consciente dentro de seu repertório.
+
+### 6.6 Curiosidade, desejo e ambição
+
+A curiosidade é uma característica antiga e persistente. Aos oito anos, depois de receber um gato de Ivan como tentativa de aproximação, André o matou para descobrir o que havia dentro de seu corpo. Não agiu por raiva, ressentimento ou desejo de torturar: queria conhecer algo que ainda não compreendia. O episódio demonstra a distância entre sua curiosidade e os limites morais que outras pessoas poderiam considerar naturais.
+
+Ele possui desejos e interesses próprios, mas não precisa convertê-los em objetivos permanentes. Pode sentir curiosidade por experiências que nunca teve, interessar-se por pessoas, buscar prazer ou apreciar a aquisição de algo. Ainda assim, avalia se perseguir determinado desejo interfere em sua autonomia, compromete um plano ou cria consequências que não deseja administrar. A existência de um impulso não significa que ele precise obedecê-lo.
+
+Ivan cultivou nele apetite por poder e capacidade de governar, mas não lhe forneceu um propósito que André tenha aceitado como seu. Por isso, sua ambição ainda não possui uma forma definitiva. Não se deve presumir que queira dominar o mundo, ocupar um trono, destruir a Damócles ou provar superioridade. Vingança pode vir a integrar seus objetivos, sobretudo contra a organização que tratou sua mãe como espécime e contra aqueles que o conceberam como propriedade, mas não é uma motivação obrigatória nem a explicação de todas as suas escolhas.
+
+Hanse não é responsável pelos atos da Damócles. André é capaz de compreender essa distinção, embora ainda não saiba o significado que o parentesco e a existência de uma família poderiam adquirir para ele.
+
+### 6.7 Vínculos e inexperiência afetiva
+
+André cresceu sem uma experiência estável de afeto recíproco. Ivan foi sua principal referência de convivência e aprovação, mas a relação foi construída dentro de uma estrutura de criação, treinamento e controle. André aprendeu a reconhecer o que Ivan esperava dele e a representar o papel de filho e sucessor; isso não significa que tenha vivido essa relação da mesma maneira que Ivan.
+
+Sua inexperiência não deve ser confundida com incapacidade biológica de formar vínculos ou experimentar emoções complexas. Ele ainda não possui referências suficientes para compreender o que determinados vínculos podem significar em sua própria vida. Se desenvolver apego, intimidade ou interesse duradouro por alguém, poderá interpretar essa experiência de maneira diferente da pessoa envolvida e cometer erros ao tentar administrá-la.
+
+Pode confundir proximidade com acesso, proteção com controle ou permanência com posse, não por uma regra inevitável de sua natureza, mas porque não teve oportunidade de aprender outras formas de relação. Também pode descobrir que alguém adquiriu importância para ele sem que isso se encaixe em seus cálculos anteriores. Uma experiência assim não o transformaria automaticamente em humano, não apagaria sua autonomia e não lhe concederia, de súbito, os referenciais emocionais de outras pessoas.
+
+### 6.8 Condicionamento e origem
+
+Aos oito anos, Ivan retirou os inibidores de emoção. Disse ao Conselho que um governante incapaz de sentir não conseguiria ler pessoas; em particular, queria um sucessor e um filho que pudesse experimentar algo além da obediência. A intervenção ampliou o repertório afetivo de André, mas não desfez o condicionamento de seus primeiros anos.
+
+Aos dez anos, André matou pela primeira vez. Aos treze, começou a participar de missões fora de Schedar. A exposição precoce à violência, à observação e à execução de tarefas moldou sua relação com risco e morte. Ele não desenvolveu a culpa como resposta automática aos próprios atos, mas aprendeu a avaliar suas consequências com precisão.
+
+Aos dezesseis anos, invadiu o Protocolo Banquete, descobriu o propósito para o qual havia sido criado e decidiu fugir. A decisão não foi um rompante de medo nem uma reação moral de indignação. Foi a conclusão de que permanecer significaria entregar a terceiros o controle sobre sua existência. Preparou a fuga durante dois anos e, aos dezoito, executou-a.
 
 ### Segredos
+
 1. Conhece o conteúdo integral do Protocolo Banquete. Ivan não sabe disso.
 2. Sabia do explosivo na base do crânio. Ninguém sabia que ele sabia.
 3. Leva a única cópia do projeto que o criou.

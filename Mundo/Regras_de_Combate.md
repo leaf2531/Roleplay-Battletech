@@ -113,7 +113,7 @@ Fonte: ficha oficial de BattleMech para 5, 8 e de 22 a 30; tabelas do Sarna para
 
 ### 3.2 Calor e piloto
 - O calor do 'Mech chega ao cockpit. A ficha oficial não fere o piloto com calor comum; com o suporte de vida avariado, o calor passa a feri-lo. [NÃO VERIFICADO quanto aos limiares exatos]
-- **André** suporta até 100 °C enquanto tiver água (ficha, 5.3). Num cockpit superaquecido, ele segue lúcido quando outro piloto desmaiaria. **Mas o Radiador protege o corpo dele, não a máquina:** a escala da seção 3.1 vale igual para o 'Mech que ele pilota.
+- **André** suporta até 100 °C enquanto tiver água (ficha, 5.8). Num cockpit superaquecido, ele segue lúcido quando outro piloto desmaiaria. **Mas o Radiador protege o corpo dele, não a máquina:** a escala da seção 3.1 vale igual para o 'Mech que ele pilota.
 - Cada hora de combate em cockpit quente custa a ele de 2 a 3 litros de água. Sem água, a vantagem desaparece. [INVENÇÃO, sobre a ficha]
 
 ---
@@ -131,7 +131,7 @@ Fonte: ficha oficial de BattleMech para 5, 8 e de 22 a 30; tabelas do Sarna para
 ### 4.2 Ferimentos do piloto
 - No jogo, o piloto aguenta seis ferimentos; a cada um, arrisca perder a consciência. [NÃO VERIFICADO]
 - Na narrativa, os ferimentos vêm de acertos na cabeça, de quedas e de explosões internas. A queda de um 'Mech chacoalha qualquer um dentro do cockpit.
-- **André**: a dor só o atrapalha a partir de um limiar seis vezes maior, e a Matriz fecha cortes e fraturas em dias ou semanas. **O cérebro e a medula não regeneram.** Um acerto que esmague o cockpit o mata como mataria qualquer um.
+- **André**: a dor só o atrapalha a partir de um limiar seis vezes maior, e a Matriz fecha cortes e fraturas em dias ou semanas. **O cérebro é a única estrutura sem redundância** (ficha, 5.9). Um acerto que esmague o cockpit o mata como mataria qualquer um.
 
 ### 4.3 O neuro-capacete [CÂNONE]
 - O MechWarrior usa o neuro-capacete para emprestar ao 'Mech o próprio senso de equilíbrio. Os eletrodos internos convertem dados de postura, movimento, equilíbrio e velocidade em impulsos neurais.

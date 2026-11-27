@@ -162,7 +162,7 @@ O colar de acoplamento, como componente de construção, custa 10.000 C-bills. [
 
 **Comida.** É o problema central.
 - Em atividade, ele gasta de 7.000 a 8.000 kcal por dia e come 2.000 a mais para manter o Celeiro cheio.
-- **A bordo, ele pode entrar em modo de economia**, que gasta cerca de 4.000 kcal por dia (ficha, 5.3). Com a comida de bordo, o déficit fica em 1.000 a 1.500 kcal por dia, e o Celeiro cobre isso com folga durante semanas.
+- **A bordo, ele pode entrar em modo de economia**, que gasta cerca de 4.000 kcal por dia (ficha, 5.8). Com a comida de bordo, o déficit fica em 1.000 a 1.500 kcal por dia, e o Celeiro cobre isso com folga durante semanas.
 - Se precisar chegar pronto para lutar, ele tem de comer acima do modo de economia. As opções são três, e cada uma deixa um rastro:
   1. **comprar refeições extras a bordo:** duas ou três porções por dia chamam a atenção da cozinha e dos outros passageiros;
   2. **levar comida própria:** uma viagem de um mês em ritmo pleno pede de 55 a 65 kg de alimento denso, o que pesa na bagagem e aparece na inspeção;

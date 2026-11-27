@@ -135,7 +135,7 @@ Ivan: (Mais dois anos. Só preciso de mais dois anos.)
 ## 10. Recursos
 
 - **O complexo e as pessoas dele.** Quem são os 20 e o que fazem fica para o Capítulo 1.
-- **O conhecimento completo do corpo de André:** cada órgão, cada limite, cada assinatura médica. Sabe que cérebro e medula não regeneram, que o Radiador depende de água e que o Celeiro precisa de 7 a 8 mil kcal por dia [FICHA DE ANDRÉ]. Ninguém na Esfera Interna sabe melhor como encontrá-lo ou como matá-lo.
+- **O conhecimento completo do corpo de André:** cada órgão, cada limite, cada assinatura médica. Sabe que o cérebro é a única estrutura sem redundância, que o Radiador depende de água e que o Celeiro precisa de 7 a 8 mil kcal por dia [FICHA DE ANDRÉ]. Ninguém na Esfera Interna sabe melhor como encontrá-lo ou como matá-lo.
 - **Os canais da Damócles** que André também conhece: os ativos no NAIS, no MIIO e no tribunal da Marca [FICHA DE ANDRÉ].
 - **A ComStar por dentro:** como a Ordem transfere seu pessoal, como trata as mensagens do HPG e como a ROM trabalha [cf. `Politica_Leis_e_Nobreza_3026.md`].
 - **Antigos conhecidos da Ordem**, que o julgam morto. Um recurso e um perigo.

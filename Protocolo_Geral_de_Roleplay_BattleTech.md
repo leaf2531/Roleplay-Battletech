@@ -488,7 +488,7 @@ Personalidade, aparência, biologia, capacidades, limites, segredos e relações
 
 **O corpo dele tem regras.** Força, reação, limiar de dor, Celeiro, Radiador, Matriz, Crisol e Hibernáculo têm números na ficha. **Os números são instrumentos de controle narrativo, não linguagem dos personagens.** Na prosa, aparecem como fome, sede, calor, cansaço, cicatrização rápida e o espanto de quem assiste. Os valores entram nos registros técnicos entre ((parênteses duplos)).
 
-**O corpo dele também tem limites.** Cérebro e medula não regeneram: um tiro na cabeça o mata. Anestésicos não funcionam nele. Qualquer exame médico de verdade o denuncia. Ele é um só. A falta de experiência de campo pesa nos primeiros combates.
+**O corpo dele também tem limites.** O cérebro é a única estrutura sem redundância: um tiro de fuzil na cabeça o mata na maioria dos casos (ficha, 5.9). Anestésicos não funcionam nele. Qualquer exame médico de verdade o denuncia. Ele é um só. A falta de experiência de campo pesa nos primeiros combates.
 
 Não importe características das versões de André de outros universos: nem o André de Vaal, nem o de Fairy Tail, nem os demais.
 

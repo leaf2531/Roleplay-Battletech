@@ -594,7 +594,7 @@ Os três primeiros são do Capítulo 2; o último é exemplo.
 Guarda da *Mako*, uns 110 kg, barba, dorme sentado na cadeira de lona do corredor com o fuzil no colo e baba [CAP. 2]. Fez parte da escolta na volta do Centurion e conferiu o coldre vazio dela [CAP. 2]. Naquela tarde, estava "com cara de quem viu fantasma", porque já tinha ouvido a história do tanque de areia [CAP. 2]. Para Azami, é uma variável: sono pesado, acorda tossindo, reage devagar [INVENÇÃO].
 
 ### 11.4 O sargento da guarda
-Guarda o carregador da pistola e o devolve só dentro do 'Mech [CAP. 2]. Nome, aparência e caráter: **[a definir]**. Sugestão [INVENÇÃO]: um homem mais velho e correto à sua maneira, que empresta a lâmina de barbear uma vez por mês, confere na volta e não faz piada sobre a pistola.
+Guarda o carregador da pistola e o devolve só dentro do 'Mech [CAP. 2]. Nome [INVENÇÃO, da ficha de Alana]: **sargento Abel Kessler**, uns cinquenta e cinco anos, ex-soldado de alguma milícia lirana, de cabelo branco à escovinha. Correto à sua maneira: empresta a lâmina de barbear uma vez por mês, confere na volta e não faz piada sobre a pistola [INVENÇÃO]. Também ensinou Alana a atirar (ver `Alana_White.md`).
 
 ### 11.5 Lorne Haddix
 Mestre de logística das operações do Júnior e chefe de Alana. Tem cinquenta e poucos anos, barriga de quem nunca carregou nada, bigode tingido e só fala gritando [CAP. 2]. Sobre Azami, disse: "Melhor, uma a menos para dar comida." [CAP. 2] Ela não existe para ele, a não ser como linha de custo.
@@ -791,7 +791,7 @@ O kanji do nome; o ano de 2999 como dedução; a ascendência mista da mãe e os
 - O nome próprio do tenente Halloway e se há sobreviventes da companhia.
 - Onde está a wakizashi.
 - Como a pistola chegou aos Tubarões.
-- O nome do sargento da guarda e dos pilotos do Wolverine e do Shadow Hawk.
+- O nome dos pilotos do Wolverine e do Shadow Hawk.
 - O nome do sobrinho do Tai-sa.
 - O estado e a pintura do Griffin.
 - Se o Combine sabe que ela está viva.

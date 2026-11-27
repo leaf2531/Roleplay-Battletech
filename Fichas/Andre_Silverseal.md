@@ -2,6 +2,8 @@
 
 *Até 25 de março de 3026: **Projeto Deimos***
 
+![André Silverseal com o equipamento de operações especiais](imagens/Andre_Silverseal_escopeta.png)
+
 > Legenda das categorias: **[CÂNONE]** conferido no Sarna.net em 22/11/2026 e 27/11/2026 (fontes no fim) · **[RETCON]** decisão explícita do jogador · **[INVENÇÃO]** criação do roleplay. O que não traz marca é invenção.
 
 ---
@@ -77,6 +79,20 @@
 - **Postura:** ereta sem rigidez. Ao entrar num lugar, identifica saídas e ameaças com tanta naturalidade que ninguém percebe que foi examinado.
 
 Ele não é um homem comum, é um homem perfeito. A olho nu, porém, nada na engenharia dele o distingue de um ser humano. Por dentro, ele é outra espécie.
+
+### Imagens
+
+| Operações especiais, com a escopeta | Operações especiais, com o fuzil |
+|---|---|
+| ![Com a escopeta](imagens/Andre_Silverseal_escopeta.png) | ![Com o fuzil](imagens/Andre_Silverseal_fuzil.png) |
+| Equipamento sem insígnia das missões da Damócles: colete flak, bandoleira de cartuchos, escopeta de arrombamento com bocal serrilhado, pistola de compósito cinza-azulado no coldre da coxa direita, faca na coxa esquerda. | O mesmo equipamento, com um fuzil de receptor escuro, guarda-mão verde-oliva e alça de transporte, e a escopeta pendurada nas costas. |
+
+| No cockpit, com o colete de refrigeração | No cockpit, de mangas compridas |
+|---|---|
+| ![Cockpit, colete de refrigeração](imagens/Andre_Silverseal_cockpit_colete.png) | ![Cockpit, mangas compridas](imagens/Andre_Silverseal_cockpit_mangas.png) |
+| No alto, em combate, de neurocapacete, com a silhueta do 'Mech e a barra de calor nas telas. Embaixo, antes da partida, com o neurocapacete no joelho e a mão na tampa de fita amarela da partida a frio. | As mesmas duas cenas, de uniforme de mangas compridas por baixo do colete. |
+
+Nas imagens, o cabelo aparece castanho-escuro e mais comprido, despenteado em cima. **[a definir]** se a descrição acima passa a seguir as imagens.
 
 ---
 
